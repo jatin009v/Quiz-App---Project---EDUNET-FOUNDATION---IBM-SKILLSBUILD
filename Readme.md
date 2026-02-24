@@ -50,7 +50,6 @@ The application focuses on:
 
 -   HTML
 -   CSS
--   Tailwind CSS\
 -   JavaScript 
 
 ------------------------------------------------------------------------
@@ -126,4 +125,5 @@ MCA Student \| Full Stack Developer \| Open Source Contributor
 
 This project is developed for educational and internship purposes under
 Edunet Foundation & IBM SkillsBuild collaboration.
+
 
