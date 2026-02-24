@@ -48,11 +48,10 @@ The application focuses on:
 
 ## 🛠️ Tech Stack
 
--   React.js\
--   HTML5\
--   CSS3\
+-   HTML
+-   CSS
 -   Tailwind CSS\
--   JavaScript (ES6+)
+-   JavaScript 
 
 ------------------------------------------------------------------------
 
@@ -127,3 +126,4 @@ MCA Student \| Full Stack Developer \| Open Source Contributor
 
 This project is developed for educational and internship purposes under
 Edunet Foundation & IBM SkillsBuild collaboration.
+
